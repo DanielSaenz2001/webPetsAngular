@@ -1,0 +1,169 @@
+header {
+    background-image: url("../assets/img/header-bg.png");
+}
+.cart{
+    background-image: url("../assets/img/cart-bg.png");
+    width: 70px;
+    height: 82px;
+    font-size: 2.5em;
+    color: white;
+    margin-left: auto;
+    display: block;
+}
+
+#sear{
+    background-color: #0b5c22;
+    border-color: #5aae32;
+}
+
+#numero{
+    padding: 10px;
+
+}
+#titulo{
+    background: #0b5c22;
+    color:white;
+    margin: auto;
+}
+#numero2{
+    margin: auto;
+    font-size: 130%;
+}
+#lista{
+    margin: auto;
+    font-size: 130%;
+    text-align: center;
+}
+#zzz{
+    margin-top: 4%;
+}
+#qqq{
+    margin: auto;
+    text-align: center;
+    background: #0b5c22;
+    color: white;
+}
+#navegador{
+    margin-bottom: 2%;
+}
+#buscar{
+    margin-top: 10% !important;
+}
+#hola{
+    margin: auto;
+    text-align: center;
+    background: #0b5c22;
+    color: white;
+}
+nav a:hover{
+	background-color: #f8f8f8;
+	color: #5aae32 !important ;
+    padding: 1% 1% 2% 1%;
+	font-weight: bold;
+}
+#pala{
+    margin: auto;
+    text-align: right;
+}
+#ddd{
+    margin: auto;
+    text-align: right;
+}
+#aaa{
+    text-align: center;
+    margin: auto;
+}
+#ccc{
+    background: #0b5c22;
+    color: white;
+}
+#ddd a{
+    color: black !important;
+}
+#pala a{
+    color: black !important;
+}
+.imagenes{
+    display: flex;
+    flex-flow: row wrap;
+}
+.productos{
+    flex: 20%;
+    border: 2px solid #0b5c22;
+    border-radius: 10px 10px;
+   
+}
+#img01:hover{
+    transform: rotate(10deg);
+}
+.container{
+    background: #f3f3f3;
+    border-radius: 11px 11px;
+}
+#asd{
+    text-align: center;
+    margin: auto;
+    height: 80%;
+}
+.info{
+    margin: auto;
+    text-align: center;
+    margin-bottom: 2%;
+}
+.info p{
+    margin-bottom: -1%;
+} 
+.desc{
+    text-align: center;
+    width: 100%;
+    background: black;
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 2px solid black;
+    border-radius: 10px 10px;
+}
+.des{
+    margin-top: 5%;
+    text-align: center;
+}
+.todo{
+    margin-top: 10%;
+}
+.productos img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+#hhh{
+    margin: auto;
+    text-align: center;
+    width: 100%;
+}
+#dada{
+    margin: auto;
+    text-align: center;
+    width: 80%;
+}
+body{
+    background-color: black;
+}
+.loader{
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    font-size: 2em;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.loader img{
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    width: 100%;
+}
+.textoo{
+    margin-top: 2%;
+}
+#aaa{
+    text-align: right;
+    color: #0b5c22;
+}
